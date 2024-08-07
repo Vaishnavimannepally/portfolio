@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "About my self",
-    aboutme: "My name is Vaishnavi. I live Hyderabad, Telangana. I am pursuing my B-Tech in Information Technology from MLR Institute of Technology, Hyderabad. My areas of interest are Web Development, Problem Solving . I am currently studying Python to improve my coding skills as well. For Web Development, I have learnt HTML, CSS, Javascript and some frameworks like Bootstrap. I have also completed virtual internship certification courses Google AI-ML program, Cisco Networking  and  Python.",
+    aboutme: "My name is Vaishnavi. I live Hyderabad, Telangana. I am pursuing my B-Tech in Information Technology from MLR Institute of Technology, Hyderabad. My areas of interest are Java, Web Development. To improve my Quality of work I have made two projects employ management system and ekart website. I attended a web development both camp and participated in 24 hour hackaton as a part of team the collaborate environment pushed me to not only my technical skills but also work closely with each other to achieve a common goal under tight deadlines. My strengths are I am a hard worker, quick learner and I can handle both hard and rush to situations. My goal is to get a job in college placement and continuously learn grow and make meaningful contributions to the company. So here I am tech enthusiant with a penchant of problem solving and love for learning.",
 };
 const worktimeline = [
     {
@@ -75,8 +75,8 @@ const skills = [{
         value: 85,
     },
     {
-        name: "Python",
-        value: 70,
+        name: "ReactJS",
+        value: 60,
     },
     {
         name: "MERN",
